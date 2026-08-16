@@ -7,8 +7,8 @@ INTO region_sales
 FROM project
 GROUP BY state
 
-02_Segment_Sales_Analysis alongwith query:-
-<img width="735" height="635" alt="image" src="https://github.com/user-attachments/assets/34215f04-a975-4960-85b7-cbaf8ac5b038" />
+02_Segment_Profit_Analysis alongwith query:-
+<img width="717" height="368" alt="image" src="https://github.com/user-attachments/assets/369b4b98-747e-460f-b248-2332b842bdef" />
 
 DROP table if exists region_sales
 SELECT state, SUM(sales) as total_sales
