@@ -15,7 +15,7 @@ SELECT state, SUM(sales) as total_sales
 INTO region_sales FROM project GROUP BY state
 
 03_Customer_OrderPlaced_Analysis alongwith query:-
-<img width="719" height="403" alt="image" src="https://github.com/user-attachments/assets/40e2b4ff-5abc-4e50-bd36-79b107d10a48" />
+<img width="852" height="633" alt="image" src="https://github.com/user-attachments/assets/8207efef-7173-4c2e-ab4b-19606512ccc5" />
 
 DROP table if exists segment_profit
 SELECT segment, SUM(profit) as total_profit
