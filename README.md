@@ -1,4 +1,4 @@
-# Sales-Analysis-report
+# Sales-Analysis-report-SQL
 01_Regional_Sales_Analysis alongwith query:-
 <img width="707" height="713" alt="image" src="https://github.com/user-attachments/assets/23649066-a9d9-43fc-8563-2b187cf1315c" />
 
